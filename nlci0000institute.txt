@@ -1,0 +1,2 @@
+hello world kavita maurya kavitaA computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks
+name=ram
