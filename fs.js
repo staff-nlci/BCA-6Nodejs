@@ -129,3 +129,6 @@ getFileStats(filePath)
 // renameFile(filePath, path.join(__dirname, 'renamed.txt'));
 // deleteFile(path.join(__dirname, 'renamed.txt'));
 // readDirectory(__dirname);
+
+////*************************************************** */
+// that message for after add 
